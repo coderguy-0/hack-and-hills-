@@ -1,0 +1,30 @@
+# deps
+node_modules/
+dist/
+frontend/dist/
+frontend/node_modules/
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.db
+invictus.db
+backend/invictus.db
+invictus.db-journal
+
+# logs
+*.log
+/tmp/
+
+# env
+.env
+.env.local
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
